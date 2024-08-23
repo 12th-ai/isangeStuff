@@ -1,0 +1,13 @@
+*{
+   font-family: poppins;
+}
+body{
+   background: #f2f8fb;
+   /* background: rgb(48, 59, 0); */
+}
+hr{
+   border: none;
+}
+nav a{
+   color: inherit;
+}

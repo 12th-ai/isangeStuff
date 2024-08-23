@@ -1,0 +1,13 @@
+> Dashboard iri muri folder ya "Dashboard" ama side-nav nizind boro ziri common
+urazibonamo like "nav.php, header.php", nko kuri nav umubwir akubwir izina rya project abe
+ariryo ushiraho
+
+
+> Kuri Homepage, hari boro ziriho zitar serie, nav handitseho "Logo" ubwo urashiramo real
+name ya project yabo, then u fixingemo stuff zo kuri section ya "services" no kuri 
+section ya "Problems"
+
+> Then umubwirek, stuff yose itarangiye, gusa harimo boro za sign up na login, ibindi
+ni prototype pages, zo kwerekan ukuntu iyo project izaba imeze
+
+> Same no kwa kevin, urebemo boro u fixing
